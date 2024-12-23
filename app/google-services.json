@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "701971237480",
-    "project_id": "aktivist2-90243",
-    "storage_bucket": "aktivist2-90243.firebasestorage.app"
+    "project_number": "858110751079",
+    "project_id": "aktivist-d059d",
+    "storage_bucket": "aktivist-d059d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:701971237480:android:91c9284eb92fc5ab7349dd",
+        "mobilesdk_app_id": "1:858110751079:android:d5cd269cf733d22590ffc2",
         "android_client_info": {
           "package_name": "com.example.aktivist"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "701971237480-m9ud02vvrs8qqgkub122gdj4m7r8qo74.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCsjZKz3RZzZ8NOIW_QqG1jSKawzjeG9fI"
+          "current_key": "AIzaSyAPcBCL-6w_1dx58GBj8Yc2206vgFDYGoA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "701971237480-m9ud02vvrs8qqgkub122gdj4m7r8qo74.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

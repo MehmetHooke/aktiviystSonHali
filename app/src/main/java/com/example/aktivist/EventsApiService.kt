@@ -1,4 +1,4 @@
 package com.example.aktivist
 
-class RetrofitInstance {
+class EventsApiService {
 }
